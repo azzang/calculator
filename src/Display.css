@@ -1,0 +1,21 @@
+.Display {
+  background: white;
+  border: 1px solid lightgrey;
+  height: 60px;
+  margin-bottom: 15px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 5px 10px;
+  width: 250px;
+}
+
+p {
+  margin: 0;
+  text-align: right;
+}
+
+.history {
+  color: #666;
+  font-size: 12px;
+  white-space: nowrap;
+}

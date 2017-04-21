@@ -1,0 +1,13 @@
+.Calculator {
+  background: beige;
+  border: 1px solid #888;
+  height: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  width: 300px;
+}
+
+h5 {
+  margin: 0 0 20px;
+  text-align: center;
+}
